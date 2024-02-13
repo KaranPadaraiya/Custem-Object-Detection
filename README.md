@@ -105,6 +105,9 @@ pip3 install tensorflow-text-nightly
 
 Please check [this page](https://github.com/tensorflow/models/wiki/Announcements) for recent announcements.
 
+## Results
+![Bullet Detection Result](https://github.com/KaranPadaraiya/Custom-object-detection/blob/main/Screenshot%202022-08-03%20155617.png)
+
 ## Contributions
 
 [![help wanted:paper implementation](https://img.shields.io/github/issues/tensorflow/models/help%20wanted%3Apaper%20implementation)](https://github.com/tensorflow/models/labels/help%20wanted%3Apaper%20implementation)
